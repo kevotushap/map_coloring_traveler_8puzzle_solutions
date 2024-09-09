@@ -1,0 +1,2 @@
+# map_coloring_traveler_8puzzle_solutions
+Artificial Intelligence algorithms
